@@ -1,0 +1,6 @@
+/home/unred/codin/test&learning/drogon/portfolio_api/build/CMakeFiles/portfolio_api.dir
+/home/unred/codin/test&learning/drogon/portfolio_api/build/CMakeFiles/edit_cache.dir
+/home/unred/codin/test&learning/drogon/portfolio_api/build/CMakeFiles/rebuild_cache.dir
+/home/unred/codin/test&learning/drogon/portfolio_api/build/test/CMakeFiles/portfolio_api_test.dir
+/home/unred/codin/test&learning/drogon/portfolio_api/build/test/CMakeFiles/edit_cache.dir
+/home/unred/codin/test&learning/drogon/portfolio_api/build/test/CMakeFiles/rebuild_cache.dir
